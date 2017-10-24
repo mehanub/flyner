@@ -6,9 +6,10 @@
                             {{ session('status') }}
                         </div>
                     @endif
-                    <div id="app">
-                          
-                     <example></example>
-                    </div>
+                     
+                          <v-app>
+                     <app></app>
+                  		</v-app>
+                   
    
  @endsection 
